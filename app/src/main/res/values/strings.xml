@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taekwondo Score Keeper</string>
+    <string name="default_point">0</string>
+    <string name="add_one_points">+1 point</string>
+    <string name="add_three_points">+3 points</string>
+    <string name="add_four_points">+4 points</string>
+    <string name="team_A">TEAM A</string>
+    <string name="team_B">TEAM B</string>
+    <string name="reset">RESET POINT</string>
+</resources>
